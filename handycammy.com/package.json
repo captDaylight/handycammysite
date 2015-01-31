@@ -1,0 +1,6 @@
+{
+  "name": "handycammy",
+  "dependencies": {
+    "simple-server": "^1.0.1"
+  }
+}
